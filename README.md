@@ -1,8 +1,10 @@
 # •━━╬٨ـﮩDimas-BA٨ـﮩﮩـ╬━━•
 
 # TIDAK SEMUA HP MENDUKUNG
-#  MENU
+#  HACKER TEAM
 ![20220620_222605](https://user-images.githubusercontent.com/107850790/174708507-a5c76753-f748-460e-ac42-39e16dbaa021.png)
+# HASIL MR.FB
+![20220621_181518](https://user-images.githubusercontent.com/107850790/174790121-df6000c7-0090-4790-ab5a-49ca405e6d70.jpg)
 
 ## install on termux
 ```
